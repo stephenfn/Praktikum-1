@@ -8,18 +8,21 @@ Deskripsi    : Membuat Table dengan npm 5 teman
 
 #include <iostream>
 #include <iomanip>
+
 using namespace std;
 
-int main(){
-    cout << "+-------------------------------------------"<< endl;
-    cout << "|\t\t CBS 2026 \t\t|"<< endl;
-    cout << "+-------------------------------------------"<< endl;
-    cout << left << setw(32) <<"NAMA \t\t\t\t NPM"<< endl;
-    cout << left << setw(32) <<"Muhamnad Fazlee Maulana \t 140810260032"<< endl;
-    cout << left << setw(32) <<"Kana Ekmal Hanana \t\t 140810260070"<< endl;
-    cout << left << setw(32) <<"M. Hafiz Fatonih \t\t 140810260025"<< endl;
-    cout << left << setw(32) <<"Regan Philips MacQueen \t\t 140810260046"<< endl;
-    cout << left << setw(32) <<"Syahdira Mufti \t\t\t 140810260043"<< endl;
+int main() {
+    int npm = 1408102600;
+
+    cout << "+-------------------------------------------" << endl;
+    cout << "|\t\t CBS 2026 \t\t   |" << endl;
+    cout << "+-------------------------------------------" << endl;
+    cout << left << setw(32) << "NAMA" << "NPM" << endl;
+    cout << left << setw(32) << "Muhammad Fazlee Maulana" << npm << 32 << endl;
+    cout << left << setw(32) << "Kana Ekmal Hanana" << npm << 70 << endl;
+    cout << left << setw(32) << "M. Hafiz Fatonih" << npm << 25 << endl;
+    cout << left << setw(32) << "Regan Philips MacQueen" << npm << 46 << endl;
+    cout << left << setw(32) << "Syahdira Mufti" << npm << 43 << endl;
 
     return 0;
 }
