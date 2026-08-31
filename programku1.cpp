@@ -14,11 +14,11 @@ int main(){
     cout << "CBS";
     cout << " 2026";
     */
-   cout << "CBS" << " " << "2026";
+   cout << "CBS" << "\t" << "2026";
 
    //cout<<"CBS/t2026";
-   cout<<"CBS"<<"/t"<<"2026";
+   cout<<"\nCBS"<<"\t"<<"2026";
 
     //cout<<"CBS/N2026";
-   cout<<"CBS"<<"/n"<<"2026";
+   cout<<"\nCBS"<<"\t"<<"2026";
 }
