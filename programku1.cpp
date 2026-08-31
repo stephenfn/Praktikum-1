@@ -1,8 +1,8 @@
 /*
-Nama Program : Program Saya
+Nama Program : Programku1
 Nama         : Myriad
-NPM          : 14081026xxxx
-Tanggal Buat : 1 Januari 2026
+NPM          : 140810260089
+Tanggal Buat : 31 Agustus 2026
 Deskripsi    : Membuat program pertama
 */
 
