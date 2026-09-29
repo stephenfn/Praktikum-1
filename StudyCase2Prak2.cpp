@@ -4,9 +4,9 @@
 using namespace std;
 
 int main () {
-    float nt;
-    float nut;
-    float nua;
+    int nt;
+    int nut;
+    int nua;
     int kkm;
     float na;
     int npm;
