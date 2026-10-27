@@ -1,5 +1,5 @@
 #include <iostream>
-using std::cout; using std::cin; using std::endl;
+using std::cout; using std::cin;
 
 void kabisat(int& tahun){
     cout << "Masukan tahun : "; cin >> tahun;

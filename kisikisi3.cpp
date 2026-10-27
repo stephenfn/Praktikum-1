@@ -2,8 +2,8 @@
 using namespace std;
 
 int jumlah (int n){
-    if (n == 1){
-        cout << "1 = ";
+    if (n == 0){
+        cout << " = ";
         return 1;
     }
     cout << n;
